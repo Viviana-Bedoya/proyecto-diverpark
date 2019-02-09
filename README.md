@@ -27,15 +27,17 @@ El proyecto lo estamos laborando para ofrecerle una solución a la empresa Diver
 ### **ALCANCE Y LIMITACIONES**
 
 #### **ALCANCES**
--Permitir el reconocimiento de Diverpark en el mundo web.
--Dar a conocer sus productos de parques infantiles y biosaludables.
--Posicionamiento en el mercado.
--Acercar a la empresa y sus productos a los usuarios.
--Permitir la compra de productos a través de la página.
+
+- Permitir el reconocimiento de Diverpark en el mundo web.
+- Dar a conocer sus productos de parques infantiles y biosaludables.
+- Posicionamiento en el mercado.
+- Acercar a la empresa y sus productos a los usuarios.
+- Permitir la compra de productos a través de la página.
 
 #### **LIMITACIONES**
--Permitir el rastreo del envió en tiempo real.
--Solo funcionara en Colombia.
+
+- Permitir el rastreo del envió en tiempo real.
+- Solo funcionara en Colombia.
 
 
 
