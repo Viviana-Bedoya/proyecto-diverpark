@@ -9,7 +9,7 @@ Crear una pagina web con tienda virtual,la cual cuente con un diseño amigable y
 
 ### **OBJETIVOS ESPECÍFICOS**
 
--	Brindar el aspecto tecnológico y los conocimientos para el desarrollo de un software que permite a la empresa ser reconocida a nivel nacional por su obra labor desempeñada en el mercado de parques.
+-	Brindar el aspecto tecnológico y los conocimientos para el desarrollo de un software, que permite a la empresa ser reconocida a nivel nacional por su obra labor desempeñada en la industria metalúrgica en parques infantiles.
 -	Dar a conocer la misión y visión de la empresa.
 -	Dar a conocer sus productos de parques infantiles y biosaludables.
 -	Comprender la idea de negocio y potenciarla.
@@ -38,6 +38,12 @@ El proyecto lo estamos laborando para ofrecerle una solución a la empresa Diver
 
 - Permitir el rastreo del envió en tiempo real.
 - Solo funcionara en Colombia.
+
+#### **INTEGRANTES**
+
+- Viviana Bedoya.
+- Germán Galindo.
+- Juan Sanchéz.
 
 
 
