@@ -39,7 +39,7 @@ El proyecto lo estamos laborando para ofrecerle una solución a la empresa Diver
 - Permitir el rastreo del envió en tiempo real.
 - Solo funcionara en Colombia.
 
-#### **INTEGRANTES**
+### **INTEGRANTES**
 
 - Viviana Bedoya.
 - Germán Galindo.
