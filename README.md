@@ -24,6 +24,16 @@ Crear una pagina web con tienda virtual,la cual cuente con un diseño amigable y
 
 El proyecto lo estamos laborando para ofrecerle una solución a la empresa Diverpark, el motivo de nuestra elaboración de una tienda virtual es porque queremos ofrecerle una solución pronta y eficaz, ya que ellos no cuentan con una tienda virtual donde sus clientes puedan observar sus productos en la web obteniendo una pronta solución para su necesidad.
 
+### **IDEA DEL PROYECTO**
+
+Crear una página web con su respetiva tienda virtual dando a conocer los
+productos como lo son parques infantiles metalizados, en madera, 
+biosaludables y demás productos fabricados por Diverpark.
+
+### **PLANTAMIENTO DEL PROYECTO**
+
+Algunas empresas se quedan atrasadas en ventas y publicidad debido a la nula participación en el mundo web, por lo tanto se ofrecerá un sitio web completo que permita la visualización del portafolio de la empresa.
+
 ### **ALCANCE Y LIMITACIONES**
 
 #### **ALCANCES**
