@@ -54,7 +54,7 @@ Algunas empresas se quedan atrasadas en ventas y publicidad debido a la nula par
 - Viviana Bedoya.
 - Germán Galindo.
 - Juan Sanchéz.
-
+- John Chavéz.
 
 
 
